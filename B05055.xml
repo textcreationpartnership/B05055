@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal victory obtained (with the providence of Almighty God) against the Dutch-fleet, June the 2d and 3d, 1665 ... to the tune of Packingtons pound.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05055</idno>
+            <idno type="STC">Wing R2155A</idno>
+            <idno type="STC">ESTC R182938</idno>
+            <idno type="EEBO-CITATION">51617481</idno>
+            <idno type="OCLC">ocm 51617481</idno>
+            <idno type="VID">175342</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175342)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2730:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal victory obtained (with the providence of Almighty God) against the Dutch-fleet, June the 2d and 3d, 1665 ... to the tune of Packingtons pound.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Coles, T. Vere, R. Gilbertson, and J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in the Glasgow University Library.</note>
+                  <note>With: A list of the names of the Dutch ships which were taken, fired, and sunk, by His Majesties fleet, under his Highness the Duke of Yorke, Iune the 3.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1664-1667 --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Poetry.</term>
+               <term>Netherlands --  History --  1648-1714 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:175342:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>The Royal Victory,</head>
+            <argument>
+               <p>Obtained (with the providence of Almighty God) againſt the <hi>Dutch-Fleet,</hi> 
+                  <date>
+                     <hi>Iune</hi> the 2d. and 3d. 1665.</date> a Fight as bloody (for the time and number) as ever was performed upon the Narrow-Seas, giving a particular Account of 17. Men of Warr taken, 14 Sunk and Fir'd: But 40. that could eſcape of their whole Fleet, wh<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch at this time are hotly perſued by the Earl of <hi>Sandwitch.</hi> Their Admiral <hi>Opdam</hi> ſlain by the Duke of <hi>Yorkes</hi> own Frigat. <hi>Van Trump</hi> Sunk by Captain <hi>Holmes,</hi> with the gallant deportment of Prince <hi>Rupert,</hi> Capt. <hi>Minns</hi> and Capt. <hi>Smith.</hi> All the Seven <hi>Dutch</hi> Admiralls (but <hi>Iohn Evertſon</hi>) killed. On our ſide, onely one ſingle Ship (the <hi>Charity</hi>) loſt; Sir <hi>Iohn Lawſon</hi> received a ſlight hurt in the knee, the Lord <hi>Marlborough,</hi> the Lord of <hi>Portland,</hi> the Lord of <hi>Falmouth,</hi> the Lord of <hi>Muskerry,</hi> Mr. <hi>Boyle</hi> (the Earl of <hi>Corks</hi> Son) Captain <hi>Athelton</hi> of the <hi>Guiny,</hi> Captain <hi>Kirby</hi> of the <hi>Breda,</hi> and Rear Admiral <hi>Sanſon</hi> were ſlain, and about 383 Seamen and Souldiers. The number of the <hi>Dutch</hi> that were kill'd amounts to 10000, and 2200 Priſoners which we have taken.</p>
+            </argument>
+            <opener>To the Tune of, <hi>Packingtons pound.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>LEt England, and <hi>Ireland,</hi> and <hi>Scotland</hi> rejoyce,</l>
+                  <l>&amp; render thankſgivings w<hi rend="sup">th</hi> heart &amp; w<hi rend="sup">th</hi> voice</l>
+                  <l>That ſurley <hi>Fanatick</hi> that now will not ſing,</l>
+                  <l>As falſe to the Kingdom, and Foe to the King;</l>
+                  <l>For he that will grutch,</l>
+                  <l>Our Fortune is ſuch,</l>
+                  <l>doth deal for the Devil, as well as the <hi>Dutch,</hi>
+                  </l>
+                  <l>For why ſhould my nature, or conſcience repine</l>
+                  <l>At taking of his life, that fain would have mine</l>
+               </lg>
+               <lg>
+                  <l>So high a Victory we could not command,</l>
+                  <l>Had it not béen gain'd by an Almighty hand,</l>
+                  <l>The great Lord of Battels did perfect this work</l>
+                  <l>For God &amp; the King, and the good Duke of <hi>York,</hi>
+                  </l>
+                  <l>Whoſe Courage was ſuch,</l>
+                  <l>Againſt the <hi>Low-Dutch,</hi>
+                  </l>
+                  <l>that vapour'd &amp; ſwager'd, like Lords in a hutch,</l>
+                  <l>But let the bold <hi>Hollanders</hi> burn ſink or ſwim,</l>
+                  <l>They have honour enough to be beaten by him,</l>
+               </lg>
+               <lg>
+                  <l>Fire, aire, earth &amp; water, it ſéemes were imploy'd</l>
+                  <l>To ſtrive for the Conqueſt, w<hi rend="sup">ch</hi> we have injoy'd,</l>
+                  <l>No honour or profit, or ſafety can ſpring,</l>
+                  <l>To thoſe that do fight againſt God &amp; the King<g ref="char:punc">▪</g>
+                  </l>
+                  <l>The Battel was hot,</l>
+                  <l>And bloudily Fought,</l>
+                  <l>the Fire was like Rain, &amp; like Hail was y<hi rend="sup">e</hi> Shot,</l>
+                  <l>For in this Ingagement ten thouſand did bléed</l>
+                  <l>Of <hi>Flemmings,</hi> who now are y<hi rend="sup">e</hi> 
+                     <hi>Low-Dutch</hi> indéed.</l>
+               </lg>
+               <lg>
+                  <l>In this cruel Conflict ſtout <hi>Opdam</hi> was ſlain</l>
+                  <l>By the great <hi>Duke</hi> of <hi>York,</hi> &amp; lyes ſunk in y<hi rend="sup">e</hi> Main</l>
+                  <l>Twas from y<hi rend="sup">e</hi> 
+                     <hi>Dukes</hi> Frigat that he had his doom<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>And by the <hi>Dukes</hi> valour he was overcome;</l>
+                  <l>It was his good Fate,</l>
+                  <l>To fall at that Rate,</l>
+                  <l>who ſink under Princes, are buried in State.</l>
+                  <l>Since valour and courage in one grave muſt lye,</l>
+                  <l>It is a great honour, by great hands to dye.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part,</head>
+               <opener>to the ſame Tune.</opener>
+               <lg>
+                  <l>THat daring bold fellow, y<hi rend="sup">e</hi> Son of <hi>Vantrump,</hi>
+                  </l>
+                  <l>Whoſe brains were beat out by the head of the <hi>Rump</hi>
+                  </l>
+                  <l>Ingageing w<hi rend="sup">th</hi> brave Capt <hi>Holmes,</hi> hand to hand,</l>
+                  <l>His Ship ſunk to'th' bottom, yet he got to Land,</l>
+                  <l>His Fate looked grim.</l>
+                  <l>'Twas well he could ſwim,</l>
+                  <l>Elſe he that caught Fiſhes, y<hi rend="sup">e</hi> Fiſh had caught him,</l>
+                  <l>They eat up our Fiſh without Reaſon or Lawes,</l>
+                  <l>But now they are going to pay for the Sauce.</l>
+               </lg>
+               <lg>
+                  <l>To mock at mens miſery is not my aime,</l>
+                  <l>It never can add to an <hi>Engliſh</hi>-mans fame;</l>
+                  <l>But I may rejoyce that the Battel is wonn,</l>
+                  <l>Becauſe in the victory Gods will is done,</l>
+                  <l>Whoſe Iuſtice appears</l>
+                  <l>In ſuch great Affairs,</l>
+                  <l>who will for <hi>Amboina</hi> plague them &amp; their Heirs</l>
+                  <l>For he that doth combat his conſcience with gilt</l>
+                  <l>In ſhedding of blood, his own ſhall be ſpilt.</l>
+               </lg>
+               <lg>
+                  <l>In this cruel Conteſt (our fortune was ſuch)</l>
+                  <l>We tooke ſeventéen Men of War from the <hi>Dutch.</hi>
+                  </l>
+                  <l>And likewiſe (as then the occaſion requir'd</l>
+                  <l>&amp; as God would have it) fourtéen more were fir'd.</l>
+                  <l>At <hi>Amboina</hi> when</l>
+                  <l>They Tortur'd our Men,</l>
+                  <l>they look'd not to have the ſame paid them agen</l>
+                  <l>With fire &amp; with water their Sinews they crackt</l>
+                  <l>In fire and in water they dy'd for the Fact.</l>
+               </lg>
+               <lg>
+                  <l>According as our God of Battel commanded</l>
+                  <l>The beſt of their Veſſels were Fir'd &amp; Stranded,</l>
+                  <l>All ſhips, Men of War; for what power hath man</l>
+                  <l>To fight with that Army, where God leads y<hi rend="sup">e</hi> Van</l>
+                  <l>They Stéere, and the<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Stem,</l>
+                  <l>But 'twas ſo extream,</l>
+                  <l>our men were neer dying, with killing of them;</l>
+                  <l>They loſt (when y<hi rend="sup">e</hi> muskets &amp; cannon ſo thunder'd</l>
+                  <l>Twice ſo many thouſand as we have loſt hundr'd</l>
+               </lg>
+               <lg>
+                  <l>'Twould make a brave <hi>Engliſhmans</hi> heart leap to ſéet</l>
+                  <l>But forty ſhips made an eſcape of their Fléet</l>
+                  <l>W<hi rend="sup">ch</hi> our men perſue w<hi rend="sup">th</hi> much courage &amp; ſtrenght</l>
+                  <l>'Tis doubtleſs but we ſhall ſurprize them at lenght,</l>
+                  <l>If God be our guide,</l>
+                  <l>And ſtand by our ſide,</l>
+                  <l>we ſhall be be frinded with fair Wind &amp; Tide;</l>
+                  <l>If Providence proſper us with a good Gale,</l>
+                  <l>The <hi>Dutch</hi> nor the Devil ſhall ever provaile.</l>
+               </lg>
+               <lg>
+                  <l>Prince <hi>Rupert</hi> like lightning flew thorrough their Fléet</l>
+                  <l>Like flame mixt w<hi rend="sup">th</hi> powder, their Army did méet</l>
+                  <l>Ten thouſand ſlain bodies the Ocean ore<g ref="char:EOLhyphen"/>ſpread,</l>
+                  <l>That in few hours diſtance were living &amp; dead,</l>
+                  <l>Their Admirals all,</l>
+                  <l>Save one there did fall,</l>
+                  <l>and death had command like a chief General,</l>
+                  <l>Brabe <hi>Smith</hi> in the <hi>Mary</hi> did ſhave out his way</l>
+                  <l>As Reapers do Wheat, or as Mowers cut Hay.</l>
+               </lg>
+               <lg>
+                  <l>Stout <hi>Lawſon,</hi> and <hi>Minn,</hi> there did both play their parts,</l>
+                  <l>who emptied their Guns in their Enemies hearts</l>
+                  <l>The burly fat <hi>Dutchmen</hi> being cut out in Slips,</l>
+                  <l>The Veſſels did looke more like Shambles then Ships.</l>
+                  <l>God proſper the Fléet,</l>
+                  <l>And ſend they may méet</l>
+                  <l>
+                     <hi>Du Ruiter,</hi> to make up the Conqueſt compleat,</l>
+                  <l>God bleſs all the Princes, and every thing</l>
+                  <l>That Fights for y<hi rend="sup">e</hi> Kingdom, &amp; prayes for y<hi rend="sup">e</hi> King.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="list_of_ships">
+            <head>A Liſt of the Names of the <hi>Dutch</hi> Ships which were taken, fired and ſunk, by his <hi>Majeſties</hi> Fleet, under his Highneſs the Duke of <hi>Yorke,</hi> 
+               <date>
+                  <hi>Iune</hi> the 3.</date>
+            </head>
+            <p>
+               <table>
+                  <head>Ships taken.</head>
+                  <row>
+                     <cell>The <hi>Helderſton,</hi> taken by the <hi>Briſtol,</hi>
+                     </cell>
+                     <cell>Guns 60.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Mars,</hi> taken by the <hi>Aſſurance,</hi>
+                     </cell>
+                     <cell>Guns 50.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Clove-tree</hi> taken by the <hi>Colcheſter,</hi>
+                     </cell>
+                     <cell>Guns 62.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles</hi> the 5th. taken by the <hi>Plymoutht</hi>
+                     </cell>
+                     <cell>Guns 45.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Delft,</hi> taken by the <hi>Breda</hi> &amp; <hi>Leopard.</hi>
+                     </cell>
+                     <cell>Guns 40.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Young Prince,</hi> taken by the <hi>Martin,</hi>
+                     </cell>
+                     <cell>Guns 36.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Zeland,</hi> taken by the <hi>Centurrion,</hi>
+                     </cell>
+                     <cell>Guns 36.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Black Bull,</hi> by the <hi>Anne</hi> &amp; <hi>Ruby,</hi>
+                     </cell>
+                     <cell>Guns 56.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Ruiter,</hi> taken by the <hi>Dolphin,</hi>
+                     </cell>
+                     <cell>Guns 18.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Divers more takeh ſince, whoſe names we have ont yet<g ref="char:punc">▪</g> A thouſand Manacles found aboard one of their Ships, which they had provided to <hi>Hand-cuff</hi> the <hi>Engliſh.</hi> 
+               <q>O! Rogues in grain.</q>
+            </p>
+            <p>
+               <table>
+                  <head>Ships burnt and ſunk.</head>
+                  <row>
+                     <cell>
+                        <hi>Opdams</hi> Ship blown up,</cell>
+                     <cell>Guns 84.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Merceven,</hi>
+                     </cell>
+                     <cell>Guns 78.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Steden,</hi> burnt,</cell>
+                     <cell>Guns 40.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Tergoes,</hi> burnt by the <hi>Dolphin,</hi>
+                     </cell>
+                     <cell>Guns 34.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Orange tree,</hi> burnt,</cell>
+                     <cell>Guns 76.</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Cuypers</hi> Ship ſunk,</cell>
+                     <cell>Guns 30.</cell>
+                  </row>
+                  <row>
+                     <cell>One ſunk by the <hi>Advice.</hi>
+                     </cell>
+                     <cell>Guns 46.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">One <hi>Fire-Ship,</hi> blown up the night before the Fight.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Another the night after.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Another great <hi>Fire-Ship</hi> ſunk, going off.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Others ſunk and run aground.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Not above 30. of our <hi>Ships</hi> that did Ingage in the heat of the <hi>Battel,</hi> wherein we loſt 1 <hi>Ship,</hi> 383 <hi>men.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Alowance,</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>F. Coles, T. Vere, R. Gilbertſon,</hi> and <hi>J. Wright.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
